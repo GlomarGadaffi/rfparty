@@ -1,4 +1,4 @@
-# groton-tinkerer
+# rfparty
 
 wireless situational awareness dashboard. ingest BLE, WiFi, and local RF telemetry (addresses, RSSI, UUIDs, manufacturer codes, ad payloads) into an in-memory LokiJS session database, search/filter by JSONPath, visualize on a Leaflet map, and export as CSV.
 
@@ -34,4 +34,4 @@ captures per-device:
 
 ## why
 
-reconnaissance and debugging tool for wireless environments. built upstream by Dataparty as rfparty; maintained here as codename groton-tinkerer.
+reconnaissance and debugging tool for wireless environments. built upstream by Dataparty as rfparty; maintained here as codename rfparty.
